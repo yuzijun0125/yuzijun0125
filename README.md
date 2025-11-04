@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-<!--
+
 **yuzijun0125/yuzijun0125** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
@@ -13,7 +13,8 @@ Here are some ideas to get you started:
 - 📫 How to reach me: qq:648654275
 - 😄 Pronouns: 你无敌的俊哥
 - ⚡ Fun fact: ...
+<!--
 ## 有关精美的个人主页
 https://github.com/blinkfox/blinkfox?tab=readme-ov-file#hi--im-blinkfox-%E9%97%AA%E7%83%81%E4%B9%8B%E7%8B%90-
-
+https://github.com/appotry/appotry#hi--im-appotry-%E5%A4%9C%E6%B3%95%E4%B9%8B%E4%B9%A6-
 -->
