@@ -13,7 +13,7 @@ Here are some ideas to get you started:
 - 📫 How to reach me: qq:648654275
 - 😄 Pronouns: 你无敌的俊哥
 - ⚡ Fun fact: ...
--->
 ## 有关精美的个人主页
 https://github.com/blinkfox/blinkfox?tab=readme-ov-file#hi--im-blinkfox-%E9%97%AA%E7%83%81%E4%B9%8B%E7%8B%90-
 
+-->
